@@ -1,0 +1,24 @@
+{
+  "name": "benign-win-supply-chain-demo",
+  "version": "1.0.4",
+  "description": "A small demo app to show how supply chain attacks may be used",
+  "main": "index.js",
+  "scripts": {
+    "preinstall": "supplychain.bat",
+    "install": "",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/deanyp/benign-win-supply-chain-demo.git"
+  },
+  "keywords": [
+    "supply"
+  ],
+  "author": "deanypants",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/deanyp/benign-win-supply-chain-demo/issues"
+  },
+  "homepage": "https://github.com/deanyp/benign-win-supply-chain-demo#readme"
+}
